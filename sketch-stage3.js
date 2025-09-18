@@ -133,8 +133,8 @@ function preload() {
 //***********Load stamp images end***********
 
   //***********Load sounds***********
-  enterSound = loadSound('enter-sound.OGG');
-  clickSound = loadSound('click-stage2.OGG');
+  enterSound = loadSound('enter-sound.ogg');
+  clickSound = loadSound('click-stage2.ogg');
   bgm = loadSound('omori.mp3');
   //***********Load sounds end***********
 }
